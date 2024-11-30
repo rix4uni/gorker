@@ -1,0 +1,3 @@
+https://www.google.com/search?q=site%3Atesla.com%20ext%3Aphp%20inurl%3A%3F
+https://www.google.com/search?q=site%3Atesla.com%20ext%3Aaspx%20inurl%3A%3F
+https://www.google.com/search?q=site%3Atesla.com
